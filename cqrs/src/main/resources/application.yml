@@ -1,0 +1,7 @@
+spring:
+  profiles:
+    active: dev  # 활성화할 프로필 지정
+  application:
+    name: cqrs
+
+# 공통 설정들
